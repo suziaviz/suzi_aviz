@@ -24,6 +24,7 @@
 <div align="center">
   <a href="https://github.com/suzi_aviz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suziaviz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suziaviz&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
@@ -38,7 +39,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-## Apaixonado por tecnologia, gamer, musica e educação.
+## Apaixonado por tecnologia, gamer, musica e educação.  
 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
